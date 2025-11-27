@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react(),tailwindcss(),],
-  base: "/Cancer-Awareness-and-Support/",
+  base: "/OM-Task",
 });
